@@ -1,0 +1,16 @@
+body {
+    color: white;
+    background-image: url('images/space.jpg');
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+}
+
+.btn {
+    border: none;
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: white;
+}
